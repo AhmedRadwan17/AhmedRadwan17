@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-Aspiring Data Scientist with strong foundation in programming, data analysis, and machine learning. Passionate about transforming raw data into actionable insights.
+A Sepecalist data analysis, and programinng (c++ , python , sql ). Passionate about transforming raw data into actionable insights.
 
 - 📊 Skilled in Python, SQL, and data visualization tools
 - 🧠 Interested in AI, ML, and predictive modeling
@@ -45,4 +45,6 @@ Aspiring Data Scientist with strong foundation in programming, data analysis, an
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Gmail Icon"/>
 </a>
 
-</div>
+<br/>
+
+📧 ahmedradwan1287o@gmail.com
