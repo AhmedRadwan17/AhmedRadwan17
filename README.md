@@ -26,7 +26,7 @@ Passionate about transforming raw data into actionable insights and building dat
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### 📊 Data Analysis & Visualization
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge;logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-2D3F6C?style=for-the-badge&logo=seaborn&logoColor=white)
@@ -56,9 +56,26 @@ Passionate about transforming raw data into actionable insights and building dat
 
 ## 📂 Featured Projects
 
-- [📊 Sales Data Analysis](رابط_المشروع) – تحليل بيانات المبيعات باستخدام Python + Excel + PowerBI  
-- [🤖 Machine Learning Model](رابط_المشروع) – نموذج تنبؤي باستخدام Scikit-Learn  
-- [📈 Interactive Dashboard](رابط_المشروع) – لوحة تحكم ديناميكية باستخدام Plotly Dash  
+### 📊 Sales Dashboard Case Study  
+تحليل بيانات مبيعات وإنشاء داشبورد تفاعلي باستخدام Python + Excel + PowerBI  
+[🔗 View Repository](https://github.com/AhmedRadwan17/Dashboards_Projects/tree/main/Case%20Study)  
+![Dashboard Preview](https://github.com/AhmedRadwan17/Dashboards_Projects/raw/main/Case%20Study/Photos/Dashboard.png)
+
+---
+
+### 🎬 Netflix Data Exploration & Dashboard  
+استكشاف بيانات Netflix + إنشاء Dashboard للتصور  
+[🔗 View Repository](https://github.com/AhmedRadwan17/Dashboards_Projects/tree/main/Netflix)  
+![Netflix Dashboard Preview](https://github.com/AhmedRadwan17/Dashboards_Projects/raw/main/Netflix/1754013660417.jpeg)  
+📄 الملف المستخدم: `netflix_titles.csv.xlsx`
+
+---
+
+### ⚽ World Cups Data Analysis  
+تحليل بيانات بطولات كأس العالم + إنشاؤ داشبورد بصري  
+[🔗 View Repository](https://github.com/AhmedRadwan17/Dashboards_Projects/tree/main/World_Cups)  
+![World Cups Dashboard Preview](https://github.com/AhmedRadwan17/Dashboards_Projects/raw/main/World_Cups/WhatsApp%20Image%202025-07-23%20at%2016.04.13_637fc549.jpg)  
+📄 الملف المستخدم: `WorldCups.xlsx`
 
 ---
 
