@@ -26,7 +26,7 @@ Passionate about transforming raw data into actionable insights and building dat
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### 📊 Data Analysis & Visualization
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge;logo=pandas&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-2D3F6C?style=for-the-badge&logo=seaborn&logoColor=white)
@@ -72,10 +72,26 @@ Passionate about transforming raw data into actionable insights and building dat
 ---
 
 ### ⚽ World Cups Data Analysis  
-تحليل بيانات بطولات كأس العالم + إنشاؤ داشبورد بصري  
+تحليل بيانات بطولات كأس العالم + إنشاء داشبورد بصري  
 [🔗 View Repository](https://github.com/AhmedRadwan17/Dashboards_Projects/tree/main/World_Cups)  
 ![World Cups Dashboard Preview](https://github.com/AhmedRadwan17/Dashboards_Projects/raw/main/World_Cups/WhatsApp%20Image%202025-07-23%20at%2016.04.13_637fc549.jpg)  
 📄 الملف المستخدم: `WorldCups.xlsx`
+
+---
+
+### 💼 Sales Dashboard & Analysis  
+مشروع تحليل مبيعات + داشبورد باستخدام Excel  
+[🔗 View Repository](https://github.com/AhmedRadwan17/Dashboards_Projects/tree/main/Sales)  
+![Sales Dashboard Preview](https://github.com/AhmedRadwan17/Dashboards_Projects/raw/main/Sales/Screenshot%202025-07-26%20033231.png)  
+📄 الملف المستخدم: `Sales_Dashboard.xlsx`
+
+---
+
+### 📦 Orders Data Project  
+تحليل بيانات الطلبات + تصور باستخدام Excel  
+[🔗 View Repository](https://github.com/AhmedRadwan17/Dashboards_Projects/tree/main/Orders)  
+![Orders Dashboard Preview](https://github.com/AhmedRadwan17/Dashboards_Projects/raw/main/Orders/Screenshot%202025-07-27%20033436.png)  
+📄 الملف المستخدم: `Orders.xlsx`
 
 ---
 
