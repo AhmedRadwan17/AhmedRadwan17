@@ -56,6 +56,18 @@ Passionate about transforming raw data into actionable insights and building dat
 
 ## 📂 Featured Projects
 
+### 🚗 Traffic Accidents Analysis Dashboard  
+End-to-end analysis of road accidents with an **interactive Excel/Power BI dashboard**.  
+Highlights include trend analysis by month, weather & surface conditions impact, and severity breakdown to guide safety actions.  
+[🔗 View Dataset (Excel)](https://github.com/AhmedRadwan17/Dashboards_Projects/blob/main/Traffic%20fin/trafic%20fin.xlsx)  
+<!-- Optional preview image: upload a PNG/JPG to the same folder and update the link below -->
+<!-- ![Traffic Dashboard Preview](https://raw.githubusercontent.com/AhmedRadwan17/Dashboards_Projects/main/Traffic%20fin/traffic_dashboard_preview.png) -->
+
+**Tools:** Excel, Power BI, DAX, Power Query  
+**Key Insights:** Monthly trends • Weather/surface effects • Traffic devices • Light conditions • Injury severity
+
+---
+
 ### 📊 Sales Dashboard Case Study  
 Analyzed sales data, cleaned and transformed it, and built an **interactive dashboard** using **Python + Excel + Power BI**.  
 [🔗 View Repository](https://github.com/AhmedRadwan17/Dashboards_Projects/tree/main/Case%20Study)  
