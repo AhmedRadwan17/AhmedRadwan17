@@ -56,25 +56,24 @@ Passionate about transforming raw data into actionable insights and building dat
 
 ## 📂 Featured Projects
 
-### 🚗 Traffic Accidents Analysis Dashboard  
-End-to-end analysis of road accidents with an **interactive Excel/Power BI dashboard**.  
-Highlights include trend analysis by month, weather & surface conditions impact, and severity breakdown to guide safety actions.  
-[🔗 View Dataset (Excel)](https://github.com/AhmedRadwan17/Dashboards_Projects/blob/main/Traffic%20fin/trafic%20fin.xlsx)  
-
-![Traffic Dashboard Preview](https://github.com/AhmedRadwan17/Dashboards_Projects/blob/main/Traffic%20fin/Screenshot%202025-09-09%20005918.png)
-
-**Tools:** Excel, Power BI, DAX, Power Query  
-**Key Insights:** Monthly trends • Weather/surface effects • Traffic devices • Light conditions • Injury severity
-
----
-
 ### 📊 Sales Dashboard Case Study  
 Analyzed sales data, cleaned and transformed it, and built an **interactive dashboard** using **Python + Excel + Power BI**.  
 [🔗 View Repository](https://github.com/AhmedRadwan17/Dashboards_Projects/tree/main/Case%20Study)  
 ![Dashboard Preview](https://github.com/AhmedRadwan17/Dashboards_Projects/raw/main/Case%20Study/Photos/Dashboard.png)
 
 ---
+### 🚗 Traffic Accidents Analysis Dashboard  
+End-to-end analysis of road accidents with an **interactive dashboard** using Excel/Power BI.  
+Explore trends by month, effects of weather & surface conditions, severity breakdown, and more.  
 
+[🔗 View Project Folder](https://github.com/AhmedRadwan17/Dashboards_Projects/tree/main/Traffic%20fin)  
+
+![Traffic Dashboard Preview](https://github.com/AhmedRadwan17/Dashboards_Projects/blob/main/Traffic%20fin/Screenshot%202025-09-09%20005918.png)
+
+**Tools:** Excel, Power BI, DAX, Power Query  
+**Key Insights:** Monthly trends • Weather/surface effects • Traffic device involvement • Light conditions • Injury severity
+
+---
 ### 🎬 Netflix Data Exploration & Dashboard  
 Explored Netflix dataset, extracted key insights, and built a **visual dashboard** to showcase content distribution and trends.  
 [🔗 View Repository](https://github.com/AhmedRadwan17/Dashboards_Projects/tree/main/Netflix)  
