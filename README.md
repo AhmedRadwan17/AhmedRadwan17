@@ -57,41 +57,41 @@ Passionate about transforming raw data into actionable insights and building dat
 ## 📂 Featured Projects
 
 ### 📊 Sales Dashboard Case Study  
-تحليل بيانات مبيعات وإنشاء داشبورد تفاعلي باستخدام Python + Excel + PowerBI  
+Analyzed sales data, cleaned and transformed it, and built an **interactive dashboard** using **Python + Excel + Power BI**.  
 [🔗 View Repository](https://github.com/AhmedRadwan17/Dashboards_Projects/tree/main/Case%20Study)  
 ![Dashboard Preview](https://github.com/AhmedRadwan17/Dashboards_Projects/raw/main/Case%20Study/Photos/Dashboard.png)
 
 ---
 
 ### 🎬 Netflix Data Exploration & Dashboard  
-استكشاف بيانات Netflix + إنشاء Dashboard للتصور  
+Explored Netflix dataset, extracted key insights, and built a **visual dashboard** to showcase content distribution and trends.  
 [🔗 View Repository](https://github.com/AhmedRadwan17/Dashboards_Projects/tree/main/Netflix)  
 ![Netflix Dashboard Preview](https://github.com/AhmedRadwan17/Dashboards_Projects/raw/main/Netflix/1754013660417.jpeg)  
-📄 الملف المستخدم: `netflix_titles.csv.xlsx`
+📄 Dataset: `netflix_titles.csv.xlsx`
 
 ---
 
 ### ⚽ World Cups Data Analysis  
-تحليل بيانات بطولات كأس العالم + إنشاء داشبورد بصري  
+Performed **exploratory data analysis** on FIFA World Cups data and created a **visual dashboard** to highlight historical insights and trends.  
 [🔗 View Repository](https://github.com/AhmedRadwan17/Dashboards_Projects/tree/main/World_Cups)  
 ![World Cups Dashboard Preview](https://github.com/AhmedRadwan17/Dashboards_Projects/raw/main/World_Cups/WhatsApp%20Image%202025-07-23%20at%2016.04.13_637fc549.jpg)  
-📄 الملف المستخدم: `WorldCups.xlsx`
+📄 Dataset: `WorldCups.xlsx`
 
 ---
 
 ### 💼 Sales Dashboard & Analysis  
-مشروع تحليل مبيعات + داشبورد باستخدام Excel  
+Built an **Excel-based dashboard** to monitor sales performance, identify KPIs, and uncover hidden patterns in data.  
 [🔗 View Repository](https://github.com/AhmedRadwan17/Dashboards_Projects/tree/main/Sales)  
 ![Sales Dashboard Preview](https://github.com/AhmedRadwan17/Dashboards_Projects/raw/main/Sales/Screenshot%202025-07-26%20033231.png)  
-📄 الملف المستخدم: `Sales_Dashboard.xlsx`
+📄 Dataset: `Sales_Dashboard.xlsx`
 
 ---
 
 ### 📦 Orders Data Project  
-تحليل بيانات الطلبات + تصور باستخدام Excel  
+Conducted **order data analysis** to track performance, trends, and customer behavior with a clean, visual dashboard.  
 [🔗 View Repository](https://github.com/AhmedRadwan17/Dashboards_Projects/tree/main/Orders)  
 ![Orders Dashboard Preview](https://github.com/AhmedRadwan17/Dashboards_Projects/raw/main/Orders/Screenshot%202025-07-27%20033436.png)  
-📄 الملف المستخدم: `Orders.xlsx`
+📄 Dataset: `Orders.xlsx`
 
 ---
 
