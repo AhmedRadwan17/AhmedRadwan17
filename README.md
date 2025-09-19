@@ -63,9 +63,9 @@ Comprehensive analysis of customer churn patterns with **interactive dashboard**
 **Key Metrics:** Total Revenue: 208K | Churned Revenue: 1M | Total Customers: 6,687 | Churned: 1,796  
 **Analysis Focus:** Contract duration, payment methods, and service interactions  
 
-[🔗 View Repository](https://github.com/AhmedRadwan17/Dashboards_Projects/tree/main/Case%20Study)  
-
-<img src="https://raw.githubusercontent.com/AhmedRadwan17/Dashboards_Projects/main/Case%20Study/Photos/Dashboard.png" alt="Customer Churn Dashboard" width="700"/>
+<a href="https://github.com/AhmedRadwan17/Dashboards_Projects/tree/main/Case%20study">
+  <img src="https://raw.githubusercontent.com/AhmedRadwan17/Dashboards_Projects/main/Case%20study/Dashboard.png" alt="Customer Churn Dashboard" width="700"/>
+</a>
 
 ---
 
