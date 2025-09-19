@@ -54,7 +54,19 @@ Passionate about transforming raw data into actionable insights and building dat
 
 ---
 
-## 📂 Featured Projects
+### 📂 Featured Projects
+
+### 🏢 Call Center Dashboard
+End-to-end analysis of call center performance with **interactive dashboard** using **Python + Power BI**.  
+
+**Dataset:** `Call_Center.csv`  
+**Key Insights:** Calls handled, dropped & resolved • CSAT trends • Agent performance • Regional analysis  
+
+<img src="https://raw.githubusercontent.com/AhmedRadwan17/Dashboards_Projects/main/call%20Center/Dashboards.png" alt="Call Center Dashboard" width="800"/>
+
+[🔗 View Repository](https://github.com/AhmedRadwan17/Dashboards_Projects/tree/main/call%20Center)
+
+---
 
 ### 📊 Customer Churn Analysis Dashboard
 Comprehensive analysis of customer churn patterns with **interactive dashboard** using **Python + Excel + Power BI**.  
@@ -63,9 +75,9 @@ Comprehensive analysis of customer churn patterns with **interactive dashboard**
 **Key Metrics:** Total Revenue: 208K | Churned Revenue: 1M | Total Customers: 6,687 | Churned: 1,796  
 **Analysis Focus:** Contract duration, payment methods, and service interactions  
 
-<a href="https://github.com/AhmedRadwan17/Dashboards_Projects/tree/main/Case%20study">
-  <img src="https://raw.githubusercontent.com/AhmedRadwan17/Dashboards_Projects/main/Case%20study/Dashboard.png" alt="Customer Churn Dashboard" width="700"/>
-</a>
+<img src="https://raw.githubusercontent.com/AhmedRadwan17/Dashboards_Projects/main/Case%20study/Dashboard.png" alt="Customer Churn Dashboard" width="800"/>
+
+[🔗 View Repository](https://github.com/AhmedRadwan17/Dashboards_Projects/tree/main/Case%20study)
 
 ---
 
@@ -75,9 +87,9 @@ End-to-end analysis of road accidents with an **interactive dashboard** using Ex
 **Dataset:** `Traffic_Accidents.xlsx`  
 **Key Insights:** Monthly trends • Weather/surface effects • Traffic device involvement • Light conditions • Injury severity  
 
-[🔗 View Project Folder](https://github.com/AhmedRadwan17/Dashboards_Projects/tree/main/Traffic%20fin)  
+<img src="https://raw.githubusercontent.com/AhmedRadwan17/Dashboards_Projects/main/Traffic%20fin/Screenshot%202025-09-09%20005918.png" alt="Traffic Dashboard Preview" width="800"/>
 
-<img src="https://raw.githubusercontent.com/AhmedRadwan17/Dashboards_Projects/main/Traffic%20fin/Screenshot%202025-09-09%20005918.png" alt="Traffic Dashboard Preview" width="700"/>
+[🔗 View Repository](https://github.com/AhmedRadwan17/Dashboards_Projects/tree/main/Traffic%20fin)
 
 ---
 
@@ -87,9 +99,9 @@ Explored Netflix dataset, extracted key insights, and built a **visual dashboard
 **Dataset:** `netflix_titles.csv.xlsx`  
 **Focus:** Content distribution by country, genre analysis, release trends over time  
 
-[🔗 View Repository](https://github.com/AhmedRadwan17/Dashboards_Projects/tree/main/Netflix)  
+<img src="https://raw.githubusercontent.com/AhmedRadwan17/Dashboards_Projects/main/Netflix/1754013660417.jpeg" alt="Netflix Dashboard Preview" width="800"/>
 
-<img src="https://raw.githubusercontent.com/AhmedRadwan17/Dashboards_Projects/main/Netflix/1754013660417.jpeg" alt="Netflix Dashboard Preview" width="700"/>
+[🔗 View Repository](https://github.com/AhmedRadwan17/Dashboards_Projects/tree/main/Netflix)
 
 ---
 
@@ -99,9 +111,9 @@ Performed **exploratory data analysis** on FIFA World Cups data and created a **
 **Dataset:** `WorldCups.xlsx`  
 **Analysis:** Historical tournament data, host country performance, goal statistics, attendance trends  
 
-[🔗 View Repository](https://github.com/AhmedRadwan17/Dashboards_Projects/tree/main/World_Cups)  
+<img src="https://raw.githubusercontent.com/AhmedRadwan17/Dashboards_Projects/main/World_Cups/WhatsApp%20Image%202025-07-23%20at%2016.04.13_637fc549.jpg" alt="World Cups Dashboard Preview" width="800"/>
 
-<img src="https://raw.githubusercontent.com/AhmedRadwan17/Dashboards_Projects/main/World_Cups/WhatsApp%20Image%202025-07-23%20at%2016.04.13_637fc549.jpg" alt="World Cups Dashboard Preview" width="700"/>
+[🔗 View Repository](https://github.com/AhmedRadwan17/Dashboards_Projects/tree/main/World_Cups)
 
 ---
 
@@ -111,9 +123,9 @@ Built an **Excel-based dashboard** to monitor sales performance, identify KPIs, 
 **Dataset:** `Sales_Dashboard.xlsx`  
 **Features:** Revenue tracking, product performance, regional analysis, time-series trends  
 
-[🔗 View Repository](https://github.com/AhmedRadwan17/Dashboards_Projects/tree/main/Sales)  
+<img src="https://raw.githubusercontent.com/AhmedRadwan17/Dashboards_Projects/main/Sales/Screenshot%202025-07-26%20033231.png" alt="Sales Dashboard Preview" width="800"/>
 
-<img src="https://raw.githubusercontent.com/AhmedRadwan17/Dashboards_Projects/main/Sales/Screenshot%202025-07-26%20033231.png" alt="Sales Dashboard Preview" width="700"/>
+[🔗 View Repository](https://github.com/AhmedRadwan17/Dashboards_Projects/tree/main/Sales)
 
 ---
 
@@ -123,19 +135,9 @@ Conducted **order data analysis** to track performance, trends, and customer beh
 **Dataset:** `Orders.xlsx`  
 **Insights:** Order fulfillment metrics, customer segmentation, seasonal patterns, delivery performance  
 
-[🔗 View Repository](https://github.com/AhmedRadwan17/Dashboards_Projects/tree/main/Orders)  
+<img src="https://raw.githubusercontent.com/AhmedRadwan17/Dashboards_Projects/main/Orders/Screenshot%202025-07-27%20033436.png" alt="Orders Dashboard Preview" width="800"/>
 
-<img src="https://raw.githubusercontent.com/AhmedRadwan17/Dashboards_Projects/main/Orders/Screenshot%202025-07-27%20033436.png" alt="Orders Dashboard Preview" width="700"/>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedRadwan17&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedRadwan17&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+[🔗 View Repository](https://github.com/AhmedRadwan17/Dashboards_Projects/tree/main/Orders)
 
 ---
 
