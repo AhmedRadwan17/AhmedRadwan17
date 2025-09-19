@@ -56,53 +56,89 @@ Passionate about transforming raw data into actionable insights and building dat
 
 ## 📂 Featured Projects
 
-### 📊 Sales Dashboard Case Study  
-Analyzed sales data, cleaned and transformed it, and built an **interactive dashboard** using **Python + Excel + Power BI**.  
+### 📊 Customer Churn Analysis Dashboard  
+Comprehensive analysis of customer churn patterns with **interactive dashboard** using **Python + Excel + Power BI**.  
+Analyzed 6,687 customers with insights on churn rates by contract type, payment methods, and revenue impact.  
+
 [🔗 View Repository](https://github.com/AhmedRadwan17/Dashboards_Projects/tree/main/Case%20Study)  
-![Dashboard Preview](https://github.com/AhmedRadwan17/Dashboards_Projects/raw/main/Case%20Study/Photos/Dashboard.png)
+
+![Dashboard Preview](https://raw.githubusercontent.com/AhmedRadwan17/Dashboards_Projects/main/Case%20Study/Photos/Dashboard.png)
+
+**Key Metrics:**  
+- Total Revenue: 208K | Churned Revenue: 1M  
+- Total Customers: 6,687 | Churned: 1,796  
+- Analysis by contract duration, payment methods, and service interactions  
 
 ---
+
 ### 🚗 Traffic Accidents Analysis Dashboard  
 End-to-end analysis of road accidents with an **interactive dashboard** using Excel/Power BI.  
 Explore trends by month, effects of weather & surface conditions, severity breakdown, and more.  
 
 [🔗 View Project Folder](https://github.com/AhmedRadwan17/Dashboards_Projects/tree/main/Traffic%20fin)  
 
-![Traffic Dashboard Preview](https://github.com/AhmedRadwan17/Dashboards_Projects/blob/main/Traffic%20fin/Screenshot%202025-09-09%20005918.png)
+![Traffic Dashboard Preview](https://raw.githubusercontent.com/AhmedRadwan17/Dashboards_Projects/main/Traffic%20fin/Screenshot%202025-09-09%20005918.png)
 
 **Tools:** Excel, Power BI, DAX, Power Query  
 **Key Insights:** Monthly trends • Weather/surface effects • Traffic device involvement • Light conditions • Injury severity
 
 ---
+
 ### 🎬 Netflix Data Exploration & Dashboard  
 Explored Netflix dataset, extracted key insights, and built a **visual dashboard** to showcase content distribution and trends.  
+
 [🔗 View Repository](https://github.com/AhmedRadwan17/Dashboards_Projects/tree/main/Netflix)  
-![Netflix Dashboard Preview](https://github.com/AhmedRadwan17/Dashboards_Projects/raw/main/Netflix/1754013660417.jpeg)  
-📄 Dataset: `netflix_titles.csv.xlsx`
+
+![Netflix Dashboard Preview](https://raw.githubusercontent.com/AhmedRadwan17/Dashboards_Projects/main/Netflix/1754013660417.jpeg)  
+
+📄 **Dataset:** `netflix_titles.csv.xlsx`  
+**Focus:** Content distribution by country, genre analysis, release trends over time
 
 ---
 
 ### ⚽ World Cups Data Analysis  
 Performed **exploratory data analysis** on FIFA World Cups data and created a **visual dashboard** to highlight historical insights and trends.  
+
 [🔗 View Repository](https://github.com/AhmedRadwan17/Dashboards_Projects/tree/main/World_Cups)  
-![World Cups Dashboard Preview](https://github.com/AhmedRadwan17/Dashboards_Projects/raw/main/World_Cups/WhatsApp%20Image%202025-07-23%20at%2016.04.13_637fc549.jpg)  
-📄 Dataset: `WorldCups.xlsx`
+
+![World Cups Dashboard Preview](https://raw.githubusercontent.com/AhmedRadwan17/Dashboards_Projects/main/World_Cups/WhatsApp%20Image%202025-07-23%20at%2016.04.13_637fc549.jpg)  
+
+📄 **Dataset:** `WorldCups.xlsx`  
+**Analysis:** Historical tournament data, host country performance, goal statistics, attendance trends
 
 ---
 
-### 💼 Sales Dashboard & Analysis  
+### 💼 Sales Performance Dashboard  
 Built an **Excel-based dashboard** to monitor sales performance, identify KPIs, and uncover hidden patterns in data.  
+
 [🔗 View Repository](https://github.com/AhmedRadwan17/Dashboards_Projects/tree/main/Sales)  
-![Sales Dashboard Preview](https://github.com/AhmedRadwan17/Dashboards_Projects/raw/main/Sales/Screenshot%202025-07-26%20033231.png)  
-📄 Dataset: `Sales_Dashboard.xlsx`
+
+![Sales Dashboard Preview](https://raw.githubusercontent.com/AhmedRadwan17/Dashboards_Projects/main/Sales/Screenshot%202025-07-26%20033231.png)  
+
+📄 **Dataset:** `Sales_Dashboard.xlsx`  
+**Features:** Revenue tracking, product performance, regional analysis, time-series trends
 
 ---
 
-### 📦 Orders Data Project  
+### 📦 Orders Data Analysis Project  
 Conducted **order data analysis** to track performance, trends, and customer behavior with a clean, visual dashboard.  
+
 [🔗 View Repository](https://github.com/AhmedRadwan17/Dashboards_Projects/tree/main/Orders)  
-![Orders Dashboard Preview](https://github.com/AhmedRadwan17/Dashboards_Projects/raw/main/Orders/Screenshot%202025-07-27%20033436.png)  
-📄 Dataset: `Orders.xlsx`
+
+![Orders Dashboard Preview](https://raw.githubusercontent.com/AhmedRadwan17/Dashboards_Projects/main/Orders/Screenshot%202025-07-27%20033436.png)  
+
+📄 **Dataset:** `Orders.xlsx`  
+**Insights:** Order fulfillment metrics, customer segmentation, seasonal patterns, delivery performance
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedRadwan17&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedRadwan17&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ---
 
@@ -118,8 +154,12 @@ Conducted **order data analysis** to track performance, trends, and customer beh
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Email"/>
 </a>
 
-<br/>
+<br/><br/>
 
-📧 **ahmedradwan1287o@gmail.com**
+📧 **ahmedradwan1287o@gmail.com** | 💼 [LinkedIn](https://www.linkedin.com/in/ahmedradwanofficial/)
+
+---
+
+⭐ **Feel free to explore my repositories and connect for collaboration opportunities!**
 
 </div>
