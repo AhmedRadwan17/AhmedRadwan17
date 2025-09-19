@@ -62,7 +62,7 @@ Analyzed 6,687 customers with insights on churn rates by contract type, payment 
 
 [🔗 View Repository](https://github.com/AhmedRadwan17/Dashboards_Projects/tree/main/Case%20Study)  
 
-![Dashboard Preview](https://raw.githubusercontent.com/AhmedRadwan17/Dashboards_Projects/main/Case%20Study/Photos/Dashboard.png)
+![Customer Churn Dashboard](https://github.com/AhmedRadwan17/Dashboards_Projects/raw/main/Case%20Study/Photos/Customer_Churn_Dashboard.png)
 
 **Key Metrics:**  
 - Total Revenue: 208K | Churned Revenue: 1M  
