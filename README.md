@@ -56,79 +56,76 @@ Passionate about transforming raw data into actionable insights and building dat
 
 ## 📂 Featured Projects
 
-### 📊 Customer Churn Analysis Dashboard  
+### 📊 Customer Churn Analysis Dashboard
 Comprehensive analysis of customer churn patterns with **interactive dashboard** using **Python + Excel + Power BI**.  
-Analyzed 6,687 customers with insights on churn rates by contract type, payment methods, and revenue impact.  
+
+**Dataset:** `Customer_Churn.csv`  
+**Key Metrics:** Total Revenue: 208K | Churned Revenue: 1M | Total Customers: 6,687 | Churned: 1,796  
+**Analysis Focus:** Contract duration, payment methods, and service interactions  
 
 [🔗 View Repository](https://github.com/AhmedRadwan17/Dashboards_Projects/tree/main/Case%20Study)  
 
-![Customer Churn Dashboard](https://github.com/AhmedRadwan17/Dashboards_Projects/raw/main/Case%20Study/Photos/Customer_Churn_Dashboard.png)
-
-**Key Metrics:**  
-- Total Revenue: 208K | Churned Revenue: 1M  
-- Total Customers: 6,687 | Churned: 1,796  
-- Analysis by contract duration, payment methods, and service interactions  
+<img src="https://raw.githubusercontent.com/AhmedRadwan17/Dashboards_Projects/main/Case%20Study/Photos/Dashboard.png" alt="Customer Churn Dashboard" width="700"/>
 
 ---
 
-### 🚗 Traffic Accidents Analysis Dashboard  
+### 🚗 Traffic Accidents Analysis Dashboard
 End-to-end analysis of road accidents with an **interactive dashboard** using Excel/Power BI.  
-Explore trends by month, effects of weather & surface conditions, severity breakdown, and more.  
+
+**Dataset:** `Traffic_Accidents.xlsx`  
+**Key Insights:** Monthly trends • Weather/surface effects • Traffic device involvement • Light conditions • Injury severity  
 
 [🔗 View Project Folder](https://github.com/AhmedRadwan17/Dashboards_Projects/tree/main/Traffic%20fin)  
 
-![Traffic Dashboard Preview](https://raw.githubusercontent.com/AhmedRadwan17/Dashboards_Projects/main/Traffic%20fin/Screenshot%202025-09-09%20005918.png)
-
-**Tools:** Excel, Power BI, DAX, Power Query  
-**Key Insights:** Monthly trends • Weather/surface effects • Traffic device involvement • Light conditions • Injury severity
+<img src="https://raw.githubusercontent.com/AhmedRadwan17/Dashboards_Projects/main/Traffic%20fin/Screenshot%202025-09-09%20005918.png" alt="Traffic Dashboard Preview" width="700"/>
 
 ---
 
-### 🎬 Netflix Data Exploration & Dashboard  
-Explored Netflix dataset, extracted key insights, and built a **visual dashboard** to showcase content distribution and trends.  
+### 🎬 Netflix Data Exploration & Dashboard
+Explored Netflix dataset, extracted key insights, and built a **visual dashboard**.  
+
+**Dataset:** `netflix_titles.csv.xlsx`  
+**Focus:** Content distribution by country, genre analysis, release trends over time  
 
 [🔗 View Repository](https://github.com/AhmedRadwan17/Dashboards_Projects/tree/main/Netflix)  
 
-![Netflix Dashboard Preview](https://raw.githubusercontent.com/AhmedRadwan17/Dashboards_Projects/main/Netflix/1754013660417.jpeg)  
-
-📄 **Dataset:** `netflix_titles.csv.xlsx`  
-**Focus:** Content distribution by country, genre analysis, release trends over time
+<img src="https://raw.githubusercontent.com/AhmedRadwan17/Dashboards_Projects/main/Netflix/1754013660417.jpeg" alt="Netflix Dashboard Preview" width="700"/>
 
 ---
 
-### ⚽ World Cups Data Analysis  
-Performed **exploratory data analysis** on FIFA World Cups data and created a **visual dashboard** to highlight historical insights and trends.  
+### ⚽ World Cups Data Analysis
+Performed **exploratory data analysis** on FIFA World Cups data and created a **visual dashboard**.  
+
+**Dataset:** `WorldCups.xlsx`  
+**Analysis:** Historical tournament data, host country performance, goal statistics, attendance trends  
 
 [🔗 View Repository](https://github.com/AhmedRadwan17/Dashboards_Projects/tree/main/World_Cups)  
 
-![World Cups Dashboard Preview](https://raw.githubusercontent.com/AhmedRadwan17/Dashboards_Projects/main/World_Cups/WhatsApp%20Image%202025-07-23%20at%2016.04.13_637fc549.jpg)  
-
-📄 **Dataset:** `WorldCups.xlsx`  
-**Analysis:** Historical tournament data, host country performance, goal statistics, attendance trends
+<img src="https://raw.githubusercontent.com/AhmedRadwan17/Dashboards_Projects/main/World_Cups/WhatsApp%20Image%202025-07-23%20at%2016.04.13_637fc549.jpg" alt="World Cups Dashboard Preview" width="700"/>
 
 ---
 
-### 💼 Sales Performance Dashboard  
+### 💼 Sales Performance Dashboard
 Built an **Excel-based dashboard** to monitor sales performance, identify KPIs, and uncover hidden patterns in data.  
+
+**Dataset:** `Sales_Dashboard.xlsx`  
+**Features:** Revenue tracking, product performance, regional analysis, time-series trends  
 
 [🔗 View Repository](https://github.com/AhmedRadwan17/Dashboards_Projects/tree/main/Sales)  
 
-![Sales Dashboard Preview](https://raw.githubusercontent.com/AhmedRadwan17/Dashboards_Projects/main/Sales/Screenshot%202025-07-26%20033231.png)  
-
-📄 **Dataset:** `Sales_Dashboard.xlsx`  
-**Features:** Revenue tracking, product performance, regional analysis, time-series trends
+<img src="https://raw.githubusercontent.com/AhmedRadwan17/Dashboards_Projects/main/Sales/Screenshot%202025-07-26%20033231.png" alt="Sales Dashboard Preview" width="700"/>
 
 ---
 
-### 📦 Orders Data Analysis Project  
+### 📦 Orders Data Analysis Project
 Conducted **order data analysis** to track performance, trends, and customer behavior with a clean, visual dashboard.  
+
+**Dataset:** `Orders.xlsx`  
+**Insights:** Order fulfillment metrics, customer segmentation, seasonal patterns, delivery performance  
 
 [🔗 View Repository](https://github.com/AhmedRadwan17/Dashboards_Projects/tree/main/Orders)  
 
-![Orders Dashboard Preview](https://raw.githubusercontent.com/AhmedRadwan17/Dashboards_Projects/main/Orders/Screenshot%202025-07-27%20033436.png)  
-
-📄 **Dataset:** `Orders.xlsx`  
-**Insights:** Order fulfillment metrics, customer segmentation, seasonal patterns, delivery performance
+<img src="https://raw.githubusercontent.com/AhmedRadwan17/Dashboards_Projects/main/Orders/Screenshot%202025-07-27%20033436.png" alt="Orders Dashboard Preview" width="700"/>
 
 ---
 
