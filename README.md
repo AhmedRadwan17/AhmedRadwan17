@@ -91,9 +91,10 @@ Passionate about transforming raw data into actionable insights and building dat
 ---
 
 ### 🎬 Netflix Dashboard
-<img src="https://raw.githubusercontent.com/AhmedRadwan17/Dashboards/main/Excel%20Dashboards/Netflix/Netflix%20Dashboard.png" width="900"/>
+<img src="https://raw.githubusercontent.com/AhmedRadwan17/Dashboards/main/Excel%20Dashboards/Netflix/1754013660417.jpeg" width="900"/>
 
 [🔗 View Project](https://github.com/AhmedRadwan17/Dashboards/tree/main/Excel%20Dashboards/Netflix)
+
 
 ---
 
