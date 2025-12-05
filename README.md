@@ -70,6 +70,24 @@ Passionate about transforming raw data into actionable insights and building dat
 [🔗 View Project](https://github.com/AhmedRadwan17/Dashboards/tree/main/Power%20BI%20Dashboards/Case%20study)
 
 ---
+# 🟦 Tableau Dashboards
+
+---
+
+### 👥 Customer Sales Dashboard | 2023
+<img src="https://raw.githubusercontent.com/AhmedRadwan17/Dashboards/main/Tabeaalu%20Dashboards/Sales/Customer%20Dashboard.png" width="800"/>
+
+[🔗 View Project](https://github.com/AhmedRadwan17/Dashboards/tree/main/Tabeaalu%20Dashboards/Sales)
+
+---
+
+### 📈 Sales Dashboard | 2023
+<img src="https://raw.githubusercontent.com/AhmedRadwan17/Dashboards/main/Tabeaalu%20Dashboards/Sales/Sales%20Dashboard.png" width="800"/>
+
+[🔗 View Project](https://github.com/AhmedRadwan17/Dashboards/tree/main/Tabeaalu%20Dashboards/Sales)
+
+---
+
 
 <br/><br/>
 
@@ -114,28 +132,11 @@ Passionate about transforming raw data into actionable insights and building dat
 
 <br/><br/>
 
-# 🟦 Tableau Dashboards
-
----
-
-### 👥 Customer Sales Dashboard | 2023
-<img src="https://raw.githubusercontent.com/AhmedRadwan17/Dashboards/main/Tabeaalu%20Dashboards/Sales/Customer%20Dashboard.png" width="800"/>
-
-[🔗 View Project](https://github.com/AhmedRadwan17/Dashboards/tree/main/Tabeaalu%20Dashboards/Sales)
-
----
-
-### 📈 Sales Dashboard | 2023
-<img src="https://raw.githubusercontent.com/AhmedRadwan17/Dashboards/main/Tabeaalu%20Dashboards/Sales/Sales%20Dashboard.png" width="800"/>
-
-[🔗 View Project](https://github.com/AhmedRadwan17/Dashboards/tree/main/Tabeaalu%20Dashboards/Sales)
-
----
 
 <br/><br/>
 
 # 🟪 Python & Data Analysis Projects
-✅ (جاهز لإضافة أي مشروع Python في أي وقت)
+
 
 ---
 
