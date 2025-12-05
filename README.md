@@ -45,6 +45,19 @@ Passionate about transforming raw data into actionable insights and building dat
 
 ---
 
+# 🟦 Tableau Dashboards
+
+---
+
+### 📈 Sales Dashboard | 2023 (Tableau)
+<img src="https://raw.githubusercontent.com/AhmedRadwan17/Dashboards/main/Tabeaalu%20Dashboards/Sales/Sales%20Dashboard.png" width="800"/>
+
+[🔗 View Project](https://github.com/AhmedRadwan17/Dashboards/tree/main/Tabeaalu%20Dashboards/Sales)
+
+---
+
+<br/><br/>
+
 # 🟨 Power BI Dashboards
 
 ---
@@ -78,50 +91,37 @@ Passionate about transforming raw data into actionable insights and building dat
 ---
 
 ### 🎬 Netflix Dashboard
-<img src="https://raw.githubusercontent.com/AhmedRadwan17/Dashboards/main/Excel%20Dashboards/Netflix/Netflix%20Dashboard.png" width="800"/>
+<img src="https://raw.githubusercontent.com/AhmedRadwan17/Dashboards/main/Excel%20Dashboards/Netflix/Netflix%20Dashboard.png" width="900"/>
 
 [🔗 View Project](https://github.com/AhmedRadwan17/Dashboards/tree/main/Excel%20Dashboards/Netflix)
 
 ---
 
 ### 💼 Sales Performance Dashboard
-<img src="https://raw.githubusercontent.com/AhmedRadwan17/Dashboards/main/Excel%20Dashboards/Sales/Screenshot%202025-07-26%20033231.png" width="800"/>
+<img src="https://raw.githubusercontent.com/AhmedRadwan17/Dashboards/main/Excel%20Dashboards/Sales/Screenshot%202025-07-26%20033231.png" width="900"/>
 
 [🔗 View Project](https://github.com/AhmedRadwan17/Dashboards/tree/main/Excel%20Dashboards/Sales)
 
 ---
 
 ### 🚦 Traffic Accidents Dashboard
-<img src="https://raw.githubusercontent.com/AhmedRadwan17/Dashboards/main/Excel%20Dashboards/Traffic%20fin/Screenshot%202025-09-09%20005918.png" width="800"/>
+<img src="https://raw.githubusercontent.com/AhmedRadwan17/Dashboards/main/Excel%20Dashboards/Traffic%20fin/Screenshot%202025-09-09%20005918.png" width="900"/>
 
 [🔗 View Project](https://github.com/AhmedRadwan17/Dashboards/tree/main/Excel%20Dashboards/Traffic%20fin)
 
 ---
 
 ### ⚽ World Cups Dashboard
-<img src="https://raw.githubusercontent.com/AhmedRadwan17/Dashboards/main/Excel%20Dashboards/World_Cups/WhatsApp%20Image%202025-07-23%20at%2016.04.13_637fc549.jpg" width="800"/>
+<img src="https://raw.githubusercontent.com/AhmedRadwan17/Dashboards/main/Excel%20Dashboards/World_Cups/WhatsApp%20Image%202025-07-23%20at%2016.04.13_637fc549.jpg" width="900"/>
 
 [🔗 View Project](https://github.com/AhmedRadwan17/Dashboards/tree/main/Excel%20Dashboards/World_Cups)
 
 ---
 
 ### 📦 Orders Dashboard
-<img src="https://raw.githubusercontent.com/AhmedRadwan17/Dashboards/main/Excel%20Dashboards/orders/Screenshot%202025-07-27%20033436.png" width="800"/>
+<img src="https://raw.githubusercontent.com/AhmedRadwan17/Dashboards/main/Excel%20Dashboards/orders/Screenshot%202025-07-27%20033436.png" width="900"/>
 
 [🔗 View Project](https://github.com/AhmedRadwan17/Dashboards/tree/main/Excel%20Dashboards/orders)
-
----
-
-<br/><br/>
-
-# 🟦 Tableau Dashboards
-
----
-
-### 📈 Sales Dashboard | 2023
-<img src="https://raw.githubusercontent.com/AhmedRadwan17/Dashboards/main/Tabeaalu%20Dashboards/Sales/Sales%20Dashboard.png" width="800"/>
-
-[🔗 View Project](https://github.com/AhmedRadwan17/Dashboards/tree/main/Tabeaalu%20Dashboards/Sales)
 
 ---
 
